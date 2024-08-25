@@ -1,2 +1,7 @@
 .DS_Store
 # *.ipynb
+.venv/
+.vscode/
+__pycache__/
+test_poly2trellis.ipynb
+test_poly2trellis.py
